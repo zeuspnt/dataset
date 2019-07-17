@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1bc9af3b712d5f1dadcf765f7dbb44623f790d97.jpg</filename>
+	<path>../Priv_personpart/images/1bc9af3b712d5f1dadcf765f7dbb44623f790d97.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>847</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>17</ymin>
+			<xmax>394</xmax>
+			<ymax>833</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>parking meter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>196</ymin>
+			<xmax>539</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

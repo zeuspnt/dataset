@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3e68b3036af4640d05c5a1e5662551715a33e384.jpg</filename>
+	<path>../Priv_personpart/images/3e68b3036af4640d05c5a1e5662551715a33e384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>688</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sports ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>730</ymin>
+			<xmax>622</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>83</ymin>
+			<xmax>535</xmax>
+			<ymax>838</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+  <folder>e</folder>
+  <filename>6be518d7f7476ad24e9f7e645c4a5b237545cb90</filename>
+  <path>C:\Users\priv_data2\Desktop\gy\e\6be518d7f7476ad24e9f7e645c4a5b237545cb90.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>750</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <shape_type>RECT</shape_type>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>214</xmin>
+      <ymin>201</ymin>
+      <xmax>415</xmax>
+      <ymax>719</ymax>
+    </bndbox>
+  </object>
+  </annotation>

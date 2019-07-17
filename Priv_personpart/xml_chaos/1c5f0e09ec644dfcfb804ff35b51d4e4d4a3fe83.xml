@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1c5f0e09ec644dfcfb804ff35b51d4e4d4a3fe83.jpg</filename>
+	<path>../Priv_personpart/images/1c5f0e09ec644dfcfb804ff35b51d4e4d4a3fe83.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>150</ymin>
+			<xmax>552</xmax>
+			<ymax>977</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>teddy bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>321</ymin>
+			<xmax>510</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

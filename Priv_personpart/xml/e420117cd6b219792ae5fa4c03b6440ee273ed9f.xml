@@ -1,0 +1,27 @@
+<annotation>
+  <folder>c</folder>
+  <filename>e420117cd6b219792ae5fa4c03b6440ee273ed9f</filename>
+  <path>C:\Users\aa\Desktop\chm\c\e420117cd6b219792ae5fa4c03b6440ee273ed9f.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1000</width>
+    <height>1000</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <shape_type>RECT</shape_type>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>53</xmin>
+      <ymin>236</ymin>
+      <xmax>748</xmax>
+      <ymax>998</ymax>
+    </bndbox>
+  </object>
+  </annotation>

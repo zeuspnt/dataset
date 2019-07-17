@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>6214bbb1f827412434f6bd80e646c39b5f73b638.jpg</filename>
+	<path>../Priv_personpart/images/6214bbb1f827412434f6bd80e646c39b5f73b638.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>666</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>48</ymin>
+			<xmax>498</xmax>
+			<ymax>875</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>60</ymin>
+			<xmax>457</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

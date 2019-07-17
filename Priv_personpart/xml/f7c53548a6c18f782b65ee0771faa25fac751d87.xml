@@ -1,0 +1,27 @@
+<annotation>
+  <folder>f</folder>
+  <filename>f7c53548a6c18f782b65ee0771faa25fac751d87</filename>
+  <path>C:\Users\asus\Desktop\handface\f\f7c53548a6c18f782b65ee0771faa25fac751d87.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>699</width>
+    <height>500</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <shape_type>RECT</shape_type>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>22</xmin>
+      <ymin>24</ymin>
+      <xmax>498</xmax>
+      <ymax>698</ymax>
+    </bndbox>
+  </object>
+  </annotation>

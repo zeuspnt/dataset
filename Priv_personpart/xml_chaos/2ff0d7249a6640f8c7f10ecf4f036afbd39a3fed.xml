@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2ff0d7249a6640f8c7f10ecf4f036afbd39a3fed.jpg</filename>
+	<path>../Priv_personpart/images/2ff0d7249a6640f8c7f10ecf4f036afbd39a3fed.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>667</width>
+		<height>1000</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>surfboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>373</ymin>
+			<xmax>647</xmax>
+			<ymax>936</ymax>
+		</bndbox>
+	</object>
+</annotation>

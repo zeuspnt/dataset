@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8c427b2b45ffa9ac47ea80e1d4679ec6aaeff0a0.jpg</filename>
+	<path>../Priv_personpart/images/8c427b2b45ffa9ac47ea80e1d4679ec6aaeff0a0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>850</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>120</ymin>
+			<xmax>405</xmax>
+			<ymax>787</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>baseball glove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>395</ymin>
+			<xmax>379</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>cc92b957b8845d5275213fd37d09b0ae6c211db9.jpg</filename>
+	<path>../Priv_personpart/images/cc92b957b8845d5275213fd37d09b0ae6c211db9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>790</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>127</ymin>
+			<xmax>500</xmax>
+			<ymax>666</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0d818439c8357a074f90f947046ef1aaebaecd34.jpg</filename>
+	<path>../Priv_personpart/images/0d818439c8357a074f90f947046ef1aaebaecd34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>761</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sofa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>119</ymin>
+			<xmax>537</xmax>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,28 @@
+<annotation>
+    <folder>ai_challenger_2017</folder>
+    <filename>3a66a1168048c38ac328c4ed70832a7ec18b490a.jpg</filename>
+    <source>
+        <database>The AIChallenger 2017 Database</database>
+        <annotation>AI Challenger Human</annotation>
+        <image>flickr</image>
+        <data_updated>2017-12-05 17:53:40</data_updated>
+    </source>
+    <size>
+        <width>550</width>
+        <height>752</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>167</xmin>
+            <ymin>16</ymin>
+            <xmax>378</xmax>
+            <ymax>750</ymax>
+        </bndbox>
+    </object>
+</annotation>

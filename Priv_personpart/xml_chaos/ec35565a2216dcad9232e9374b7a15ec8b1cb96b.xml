@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ec35565a2216dcad9232e9374b7a15ec8b1cb96b.jpg</filename>
+	<path>../Priv_personpart/images/ec35565a2216dcad9232e9374b7a15ec8b1cb96b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>825</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>6</ymin>
+			<xmax>428</xmax>
+			<ymax>808</ymax>
+		</bndbox>
+	</object>
+</annotation>

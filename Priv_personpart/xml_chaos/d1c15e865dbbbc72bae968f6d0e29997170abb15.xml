@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>d1c15e865dbbbc72bae968f6d0e29997170abb15.jpg</filename>
+	<path>../Priv_personpart/images/d1c15e865dbbbc72bae968f6d0e29997170abb15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>846</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>128</ymin>
+			<xmax>301</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fire hydrant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>495</ymin>
+			<xmax>395</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>

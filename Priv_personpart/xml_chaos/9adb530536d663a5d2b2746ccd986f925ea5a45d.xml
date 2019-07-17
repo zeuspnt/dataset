@@ -1,0 +1,86 @@
+<annotation>
+	<folder>images</folder>
+	<filename>9adb530536d663a5d2b2746ccd986f925ea5a45d.jpg</filename>
+	<path>../Priv_personpart/images/9adb530536d663a5d2b2746ccd986f925ea5a45d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>825</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>130</ymin>
+			<xmax>466</xmax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sports ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>787</ymin>
+			<xmax>265</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sports ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>793</ymin>
+			<xmax>355</xmax>
+			<ymax>823</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sports ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>805</ymin>
+			<xmax>438</xmax>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sports ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>751</ymin>
+			<xmax>136</xmax>
+			<ymax>781</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sports ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>810</ymin>
+			<xmax>195</xmax>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+</annotation>

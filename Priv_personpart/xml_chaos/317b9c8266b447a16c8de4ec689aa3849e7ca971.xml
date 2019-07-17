@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>317b9c8266b447a16c8de4ec689aa3849e7ca971.jpg</filename>
+	<path>../Priv_personpart/images/317b9c8266b447a16c8de4ec689aa3849e7ca971.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>796</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bench</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>264</ymin>
+			<xmax>483</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+</annotation>

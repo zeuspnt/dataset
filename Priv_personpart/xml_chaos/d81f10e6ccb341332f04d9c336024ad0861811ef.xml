@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>d81f10e6ccb341332f04d9c336024ad0861811ef.jpg</filename>
+	<path>../Priv_personpart/images/d81f10e6ccb341332f04d9c336024ad0861811ef.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>747</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>572</xmin>
+			<ymin>254</ymin>
+			<xmax>839</xmax>
+			<ymax>738</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cell phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>723</xmin>
+			<ymin>607</ymin>
+			<xmax>838</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,39 @@
+<annotation>
+  <folder>c</folder>
+  <filename>fa99a7e83873bde46656d38bfc52b586d3603333</filename>
+  <path>C:\Users\zhaoxu\Documents\Tencent Files\1016675813\FileRecv\chm\c\fa99a7e83873bde46656d38bfc52b586d3603333.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>785</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <shape_type>RECT</shape_type>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>150</xmin>
+      <ymin>74</ymin>
+      <xmax>413</xmax>
+      <ymax>743</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>face</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>213</xmin>
+      <ymin>137</ymin>
+      <xmax>271</xmax>
+      <ymax>192</ymax>
+    </bndbox>
+  </object>
+</annotation>

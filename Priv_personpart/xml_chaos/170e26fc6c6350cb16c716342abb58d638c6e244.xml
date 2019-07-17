@@ -1,0 +1,62 @@
+<annotation>
+	<folder>images</folder>
+	<filename>170e26fc6c6350cb16c716342abb58d638c6e244.jpg</filename>
+	<path>../Priv_personpart/images/170e26fc6c6350cb16c716342abb58d638c6e244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>665</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>155</ymin>
+			<xmax>391</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sports ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>244</ymin>
+			<xmax>485</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis racket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>232</ymin>
+			<xmax>164</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis racket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>202</ymin>
+			<xmax>422</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

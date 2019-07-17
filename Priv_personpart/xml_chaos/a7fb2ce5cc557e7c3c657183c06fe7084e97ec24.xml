@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>a7fb2ce5cc557e7c3c657183c06fe7084e97ec24.jpg</filename>
+	<path>../Priv_personpart/images/a7fb2ce5cc557e7c3c657183c06fe7084e97ec24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>517</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>112</ymin>
+			<xmax>478</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>baseball bat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>291</ymin>
+			<xmax>524</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

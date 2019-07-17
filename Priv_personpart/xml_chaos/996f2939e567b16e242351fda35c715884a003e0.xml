@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>996f2939e567b16e242351fda35c715884a003e0.jpg</filename>
+	<path>../Priv_personpart/images/996f2939e567b16e242351fda35c715884a003e0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>727</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>75</ymin>
+			<xmax>414</xmax>
+			<ymax>715</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tennis racket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>38</ymin>
+			<xmax>438</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
